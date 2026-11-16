@@ -1,2 +1,2 @@
-# Proassi
-An AI assistant project developed by エムエッチ/Mh, exploring intelligent conversations and AI agent capabilities.
+# Youtube channel finder
+A youtube channel finder prototype. by me :D
