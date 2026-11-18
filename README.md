@@ -1,2 +1,2 @@
 # Youtube channel finder
-A youtube channel finder prototype. by me :D
+ simple Python terminal-based YouTube Channel Finder prototype...
